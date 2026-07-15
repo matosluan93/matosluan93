@@ -79,6 +79,20 @@ Documentação técnica •  Análise de processos
 
 ---
 
+## 🟡 Pac-Man das contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matosluan93/matosluan93/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matosluan93/matosluan93/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man percorrendo o gráfico de contribuições de Luan Felipe" src="https://raw.githubusercontent.com/matosluan93/matosluan93/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
