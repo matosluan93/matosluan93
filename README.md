@@ -1,92 +1,103 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Luan Felipe!
+# Luan Felipe
 
-### Analista de IA Júnior • IA Generativa • Automação • Agentes de IA
+### Inteligência Artificial · Automação · Soluções de Negócio
 
-Profissional com experiência em processos corporativos, engenharia de requisitos, agentes de IA e automação, transformando necessidades de negócio em soluções estruturadas, explicáveis e orientadas a resultados.
+Transformo necessidades de processos corporativos em aplicações, automações e projetos de IA com requisitos claros e documentação técnica.
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-IA%20%26%20Automação-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matosluan93/ai-business-solutions-portfolio)
-[![GitHub](https://img.shields.io/badge/GitHub-matosluan93-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matosluan93)
+**Foco em oportunidades de Analista de IA Júnior e Automação com IA.**
 
-</div>
-
----
-
-## 🚀 Sobre mim
-
-- 🤖 Desenvolvo agentes baseados em prompts para comunicação, aprendizagem, liderança e recrutamento.
-- ⚙️ Crio automações e aplicações locais com foco em processos corporativos.
-- 🧩 Trabalho com levantamento de requisitos, regras de negócio, validação e documentação técnica.
-- 🛡️ Aplico princípios de Responsible AI, privacidade, explicabilidade e revisão humana.
-- 📚 Busco oportunidades como **Analista de IA Júnior**, **Analista de IA Generativa**, **Analista de Automação com IA**, **Prompt Engineer Júnior** e **AI Business Analyst**.
-
----
-
-## 🧰 Tecnologias e competências
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+[![Explorar portfólio](https://img.shields.io/badge/EXPLORAR_PORTFÓLIO-0F766E?style=for-the-badge)](https://github.com/matosluan93/ai-business-solutions-portfolio)
+[![Ver competências](https://img.shields.io/badge/VER_COMPETÊNCIAS-1E293B?style=for-the-badge)](https://github.com/matosluan93/ai-business-solutions-portfolio/blob/main/SKILLS.md)
 
 </div>
 
-```text
-Prompt Engineering  •  IA Generativa  •  Agentes de IA
-Automação            •  Regras de negócio  •  Responsible AI
-Documentação técnica •  Análise de processos
-```
+---
+
+## Da necessidade de negócio à solução técnica
+
+Minha experiência com processos corporativos orienta a forma como construo soluções: entender o problema, definir regras, organizar dados e documentar o que foi entregue. Meu portfólio reúne aplicações em Python, interfaces web e agentes baseados em prompts para cenários de negócio.
+
+| Área de atuação | Como aparece nos meus projetos |
+| :--- | :--- |
+| **Automação e dados** | Tratamento de planilhas, validação de registros, rastreabilidade e geração de entregáveis. |
+| **IA generativa** | Engenharia de prompts, saídas estruturadas, adaptação ao contexto e revisão humana. |
+| **Desenvolvimento web** | Interfaces responsivas, fluxos de cadastro, catálogos e internacionalização. |
+| **Análise de negócios** | Levantamento de requisitos, regras operacionais, documentação de escopo e limitações. |
+
+## Projetos em destaque
+
+### 01 · BenefProcess
+**Automação de bases de benefícios**
+
+Aplicação web local para tratar e validar planilhas, deduplicar registros e gerar entregáveis em Excel, CSV, ZIP e PowerPoint. Inclui registro de exclusões para auditoria.
+
+**Competências demonstradas:** processamento de dados, regras de negócio, rastreabilidade e exportação de relatórios.  
+**Tecnologias:** Python · Flask · pandas · openpyxl · python-pptx  
+**Estágio:** aplicação funcional.
+
+[Ver estudo do projeto](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/benefprocess) · [Explorar código](https://github.com/matosluan93/benef-process)
 
 ---
 
-## 🌟 Portfólio em destaque
+### 02 · Stefanini Shopping
+**Interface de e-commerce corporativo**
 
-<table>
-<tr>
-<td width="50%">
+Estudo de caso de um front-end com catálogo de 33 produtos, busca e filtros, seleção de variantes, carrinho e checkout demonstrativo. Interface responsiva em português, inglês e espanhol.
 
-### 🤖 Agentes de IA
+**Competências demonstradas:** requisitos, experiência de compra, modelagem de catálogo e internacionalização.  
+**Tecnologias:** Next.js · React · TypeScript · Tailwind CSS  
+**Estágio:** front-end funcional local, com integrações produtivas pendentes. Estudo público sanitizado; código corporativo privado.
 
-- Gestor Acolhe
-- Sophie Voice Comms
-- SmartComms
-- SpeakAI
-- LexAnalyzer
-- SkillMatch
-
-</td>
-<td width="50%">
-
-### ⚙️ Aplicações
-
-- **BenefProcess** — processamento local de dados e geração de entregáveis.
-- **NF-e — Automação** — protótipo web para organização e visualização de documentos fiscais.
-- **[Stefanini Shopping](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/stefanini-shopping)** — estudo de caso sanitizado de e-commerce corporativo responsivo e multilíngue em Next.js e TypeScript; código corporativo privado.
-
-</td>
-</tr>
-</table>
-
-> Conheça a documentação, o status real e as limitações de cada projeto no [portfólio central](https://github.com/matosluan93/ai-business-solutions-portfolio).
+[Conhecer o estudo de caso](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/stefanini-shopping)
 
 ---
 
-## 🟡 Pac-Man das contribuições
+### 03 · NF-e — Automação
+**Organização de registros e documentos fiscais**
 
-<div align="center">
+Protótipo web com cadastro e consulta de registros e produtos, persistência em SQLite e visualização para impressão inspirada em DANFE.
+
+**Competências demonstradas:** desenvolvimento de fluxos web, persistência local e organização de informações.  
+**Tecnologias:** Python · Flask · SQLite · HTML · CSS · JavaScript  
+**Estágio:** protótipo funcional local, sem emissão fiscal oficial ou integração produtiva com a SEFAZ.
+
+[Ver escopo e funcionalidades](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/nfe-automation) · [Explorar código](https://github.com/matosluan93/nfe_system_v6)
+
+## IA generativa aplicada ao negócio
+
+Projetos de agentes com prompts documentados, regras de operação e limites de uso. Cada estudo apresenta o escopo disponível para avaliação.
+
+| Projeto | Aplicação | Competência em evidência |
+| :--- | :--- | :--- |
+| [Gestor Acolhe](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/agents/gestor-acolhe) | Apoio à liderança | Governança e encaminhamento para revisão humana |
+| [Sophie Voice Comms](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/agents/sophie-voice-comms) | Roteiros institucionais para avatar | Comunicação, localização e controle de informações |
+| [SmartComms](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/agents/smartcomms) | Comunicação corporativa em inglês | Adaptação por canal e validação de mensagens |
+| [SpeakAI](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/agents/speakai) | Aprendizagem profissional de idiomas | Personalização e organização de jornadas |
+| [LexAnalyzer](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/agents/lexanalyzer) | Estruturação preliminar de informações para R&S | Regras e explicabilidade; versão pública sanitizada |
+| [SkillMatch](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/agents/skillmatch) | Triagem assistida de currículos | Critérios de matching e análise de evidências |
+
+## Ferramentas e competências
+
+| Dados e automação | Desenvolvimento web | IA e análise |
+| :--- | :--- | :--- |
+| Python · pandas · Flask | HTML · CSS · JavaScript | Engenharia de prompts |
+| SQLite · openpyxl · xlsxwriter | React · Next.js · TypeScript | Requisitos e regras de negócio |
+| python-pptx · Git · GitHub | Tailwind CSS · Internacionalização | IA responsável · Documentação técnica |
+
+[Consultar competências e evidências](https://github.com/matosluan93/ai-business-solutions-portfolio/blob/main/SKILLS.md)
+
+## Oportunidades e colaboração
+
+Tenho interesse em posições de **Analista de IA Júnior**, **Analista de IA Generativa**, **Analista de Automação com IA** e **AI Business Analyst**, conectando contexto de negócio, organização de processos e execução técnica.
+
+**Para conhecer meu trabalho:** explore os projetos em destaque e consulte a documentação de cada solução no [portfólio completo](https://github.com/matosluan93/ai-business-solutions-portfolio).
+
+---
+
+<details>
+<summary>Atividade no GitHub · Pac-Man das contribuições</summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matosluan93/matosluan93/output/pacman-contribution-graph-dark.svg">
@@ -94,41 +105,4 @@ Documentação técnica •  Análise de processos
   <img alt="Pac-Man percorrendo o gráfico de contribuições de Luan Felipe" src="https://raw.githubusercontent.com/matosluan93/matosluan93/output/pacman-contribution-graph.svg">
 </picture>
 
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=matosluan93&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Luan Felipe" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosluan93&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=matosluan93&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-
-</div>
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=matosluan93&theme=tokyo-night&hide_border=true&area=true)](https://github.com/matosluan93)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Transformando necessidades de negócio em soluções de IA e automação.
-
-![Visualizações](https://komarev.com/ghpvc/?username=matosluan93&color=6C63FF&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL)
-
-</div>
+</details>
