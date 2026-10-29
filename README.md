@@ -8,8 +8,10 @@ Transformo necessidades de processos corporativos em aplicações, automações 
 
 **Foco em oportunidades de Analista de IA Júnior e Automação com IA.**
 
-[![Explorar portfólio](https://img.shields.io/badge/EXPLORAR_PORTFÓLIO-0F766E?style=for-the-badge)](https://github.com/matosluan93/ai-business-solutions-portfolio)
-[![Ver competências](https://img.shields.io/badge/VER_COMPETÊNCIAS-1E293B?style=for-the-badge)](https://github.com/matosluan93/ai-business-solutions-portfolio/blob/main/SKILLS.md)
+[![Aplicações](https://img.shields.io/badge/EXPLORAR_APLICAÇÕES-0F766E?style=for-the-badge)](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications)
+[![Prompts de IA](https://img.shields.io/badge/EXPLORAR_PROMPTS-1E293B?style=for-the-badge)](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts)
+
+[Portfólio completo](https://github.com/matosluan93/ai-business-solutions-portfolio) · [Competências e evidências](https://github.com/matosluan93/ai-business-solutions-portfolio/blob/main/SKILLS.md)
 
 </div>
 
@@ -17,82 +19,62 @@ Transformo necessidades de processos corporativos em aplicações, automações 
 
 ## Da necessidade de negócio à solução técnica
 
-Minha experiência com processos corporativos orienta a forma como construo soluções: entender o problema, definir regras, organizar dados e documentar o que foi entregue. Meu portfólio reúne aplicações em Python, interfaces web e agentes baseados em prompts para cenários de negócio.
+Minha experiência com processos corporativos orienta a forma como construo soluções: entender o problema, definir regras, organizar dados e documentar a entrega. Meu portfólio combina desenvolvimento web, automação de dados e engenharia de prompts.
 
-| Área de atuação | Como aparece nos meus projetos |
-| :--- | :--- |
-| **Automação e dados** | Tratamento de planilhas, validação de registros, rastreabilidade e geração de entregáveis. |
-| **IA generativa** | Engenharia de prompts, saídas estruturadas, adaptação ao contexto e revisão humana. |
-| **Desenvolvimento web** | Interfaces responsivas, fluxos de cadastro, catálogos e internacionalização. |
-| **Análise de negócios** | Levantamento de requisitos, regras operacionais, documentação de escopo e limitações. |
+## 01 · Aplicações
 
-## Projetos em destaque
+### TalentHub v2 · Recrutamento e gestão
 
-### 01 · BenefProcess
-**Automação de bases de benefícios**
+Aplicação web com vagas, candidatos, pipeline e três perfis de acesso. Inclui indicadores por equipe, recuperação de contexto e testes automatizados em ambiente local.
 
-Aplicação web local para tratar e validar planilhas, deduplicar registros e gerar entregáveis em Excel, CSV, ZIP e PowerPoint. Inclui registro de exclusões para auditoria.
+**Python · Flask · SQLAlchemy · SQLite · MSAL**  
+[Conhecer o projeto e a demonstração](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/talenthub)
 
-**Competências demonstradas:** processamento de dados, regras de negócio, rastreabilidade e exportação de relatórios.  
-**Tecnologias:** Python · Flask · pandas · openpyxl · python-pptx  
-**Estágio:** aplicação funcional.
+### BenefProcess · Automação de dados
 
-[Ver estudo do projeto](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/benefprocess) · [Explorar código](https://github.com/matosluan93/benef-process)
+Tratamento e validação de bases de benefícios, com deduplicação, rastreabilidade e exportação em Excel, CSV, ZIP e PowerPoint.
 
----
+**Python · Flask · pandas · openpyxl · python-pptx**  
+[Ver o estudo e as telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/benefprocess) · [Explorar código](https://github.com/matosluan93/benef-process)
 
-### 02 · Stefanini Shopping
-**Interface de e-commerce corporativo**
+### SpeakAI · Aprendizagem de idiomas
 
-Estudo de caso de um front-end com catálogo de 33 produtos, busca e filtros, seleção de variantes, carrinho e checkout demonstrativo. Interface responsiva em português, inglês e espanhol.
+Interface de estudo em oito idiomas, com jornada geral, trilha executiva, gramática e gamificação. O build local e as telas estão documentados no projeto.
 
-**Competências demonstradas:** requisitos, experiência de compra, modelagem de catálogo e internacionalização.  
-**Tecnologias:** Next.js · React · TypeScript · Tailwind CSS  
-**Estágio:** front-end funcional local, com integrações produtivas pendentes. Estudo público sanitizado; código corporativo privado.
+**JavaScript · HTML · CSS · Node.js**  
+[Ver o estudo e as telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/speakai)
 
-[Conhecer o estudo de caso](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/stefanini-shopping)
-
----
-
-### 03 · NF-e — Automação
-**Organização de registros e documentos fiscais**
-
-Protótipo web com cadastro e consulta de registros e produtos, persistência em SQLite e visualização para impressão inspirada em DANFE.
-
-**Competências demonstradas:** desenvolvimento de fluxos web, persistência local e organização de informações.  
-**Tecnologias:** Python · Flask · SQLite · HTML · CSS · JavaScript  
-**Estágio:** protótipo funcional local, sem emissão fiscal oficial ou integração produtiva com a SEFAZ.
-
-[Ver escopo e funcionalidades](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/nfe-automation) · [Explorar código](https://github.com/matosluan93/nfe_system_v6)
-
-## IA generativa aplicada ao negócio
-
-Projetos de agentes com prompts documentados, regras de operação e limites de uso. Cada estudo apresenta o escopo disponível para avaliação.
-
-| Projeto | Aplicação | Competência em evidência |
+| Outros projetos | O que demonstram | Explore |
 | :--- | :--- | :--- |
-| [Gestor Acolhe](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/agents/gestor-acolhe) | Apoio à liderança | Governança e encaminhamento para revisão humana |
-| [Sophie Voice Comms](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/agents/sophie-voice-comms) | Roteiros institucionais para avatar | Comunicação, localização e controle de informações |
-| [SmartComms](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/agents/smartcomms) | Comunicação corporativa em inglês | Adaptação por canal e validação de mensagens |
-| [SpeakAI](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/agents/speakai) | Aprendizagem profissional de idiomas | Personalização e organização de jornadas |
-| [LexAnalyzer](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/agents/lexanalyzer) | Estruturação preliminar de informações para R&S | Regras e explicabilidade; versão pública sanitizada |
-| [SkillMatch](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/agents/skillmatch) | Triagem assistida de currículos | Critérios de matching e análise de evidências |
+| **Stefanini Shopping** | Front-end de e-commerce, catálogo, variantes e internacionalização com Next.js e TypeScript | [Estudo e telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/stefanini-shopping) |
+| **NF-e — Automação** | Fluxos de cadastro, persistência em SQLite e pré-visualização em um protótipo Flask | [Estudo e telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/nfe-automation) |
+
+## 02 · Prompts de IA
+
+Projetos com instruções, regras de operação e formatos de resposta documentados. As páginas indicam o estágio e o material público disponível.
+
+| Projeto | Contexto | Competência em evidência |
+| :--- | :--- | :--- |
+| [Gestor Acolhe](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/gestor-acolhe) | Apoio à liderança | Estruturação de instruções e governança |
+| [Sophie Voice Comms](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/sophie-voice-comms) | Roteiros institucionais | Localização e controle de informações |
+| [SmartComms](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/smartcomms) | Comunicação em inglês | Adaptação por canal e validação |
+| [SpeakAI — prompt](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/speakai) | Tutoria de idiomas | Personalização e desenho de jornada |
+| [LexAnalyzer](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/lexanalyzer) | Estruturação preliminar para R&S | Regras e explicabilidade; versão pública sanitizada |
+| [SkillMatch](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/skillmatch) | Comparação assistida de currículo e vaga | Critérios e evidências |
 
 ## Ferramentas e competências
 
-| Dados e automação | Desenvolvimento web | IA e análise |
+| Dados e backend | Desenvolvimento web | IA e análise |
 | :--- | :--- | :--- |
-| Python · pandas · Flask | HTML · CSS · JavaScript | Engenharia de prompts |
-| SQLite · openpyxl · xlsxwriter | React · Next.js · TypeScript | Requisitos e regras de negócio |
-| python-pptx · Git · GitHub | Tailwind CSS · Internacionalização | IA responsável · Documentação técnica |
-
-[Consultar competências e evidências](https://github.com/matosluan93/ai-business-solutions-portfolio/blob/main/SKILLS.md)
+| Python · Flask · SQLAlchemy | HTML · CSS · JavaScript | Engenharia de prompts |
+| pandas · SQLite · openpyxl | React · Next.js · TypeScript | Recuperação de contexto e fontes |
+| python-pptx · Git · GitHub | Tailwind CSS · Internacionalização | Requisitos · Documentação técnica |
 
 ## Oportunidades e colaboração
 
 Tenho interesse em posições de **Analista de IA Júnior**, **Analista de IA Generativa**, **Analista de Automação com IA** e **AI Business Analyst**, conectando contexto de negócio, organização de processos e execução técnica.
 
-**Para conhecer meu trabalho:** explore os projetos em destaque e consulte a documentação de cada solução no [portfólio completo](https://github.com/matosluan93/ai-business-solutions-portfolio).
+[Explore os projetos e suas evidências](https://github.com/matosluan93/ai-business-solutions-portfolio)
 
 ---
 
