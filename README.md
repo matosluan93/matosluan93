@@ -13,8 +13,8 @@ Busco oportunidades de **Analista de IA Júnior e Automação com IA**.
 
 <br /><br />
 
-<img width="49%" src="assets/overview.svg" alt="7 repositórios públicos próprios, 6 aplicações, 6 projetos de prompts e 14 testes locais aprovados. Dados de 30/10/2026." />
-<img width="49%" src="assets/technologies.svg" alt="Tecnologias dos projetos: Python, JavaScript, TypeScript, Flask, React, Next.js, SQLite, IA e automação." />
+<img width="400" src="assets/overview.svg" alt="7 repositórios públicos próprios, 6 aplicações, 6 projetos de prompts e 14 testes locais aprovados. Dados de 30/10/2026." />
+<img width="400" src="assets/technologies.svg" alt="Tecnologias dos projetos: Python, JavaScript, TypeScript, Flask, React, Next.js, SQLite, IA e automação." />
 
 <br /><br />
 
