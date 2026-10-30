@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="230" viewBox="0 0 1100 230" role="img">
+<style>text{font-family:Segoe UI,Arial,sans-serif}</style><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101a32"/><stop offset="1" stop-color="#201539"/></linearGradient><linearGradient id="accent"><stop stop-color="#56dddb"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1100" height="230" rx="18" fill="url(#bg)"/>
+<path d="M760 0L620 230M900 0L760 230M1040 0L900 230M1100 70L1000 230" stroke="#8799d8" stroke-opacity=".1"/>
+<circle cx="980" cy="30" r="150" fill="#8870ec" opacity=".06"/>
+<rect x="40" y="39" width="4" height="148" rx="2" fill="url(#accent)"/>
+<text x="65" y="67" fill="#70e5db" font-size="14" font-weight="600" letter-spacing="3">OLÁ, EU SOU</text>
+<text x="61" y="121" fill="#f5f7ff" font-size="48" font-weight="700">Luan Felipe</text>
+<text x="65" y="158" fill="#c0c9e0" font-size="19">Inteligência Artificial · Automação · Soluções de Negócio</text>
+<text x="65" y="190" fill="#9baac8" font-size="14">Do entendimento do processo à aplicação, com documentação e evidências.</text>
+<rect x="902" y="61" width="125" height="108" rx="24" fill="#ffffff" fill-opacity=".035" stroke="#8b9fc8" stroke-opacity=".3"/>
+<text x="928" y="129" fill="#8de8e0" font-size="44" font-weight="700">LF</text></svg>

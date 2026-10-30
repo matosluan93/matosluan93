@@ -1,73 +1,79 @@
 <div align="center">
 
-# Luan Felipe
+![Olá, eu sou Luan Felipe. Inteligência Artificial, Automação e Soluções de Negócio.](assets/header.svg)
 
-### Inteligência Artificial · Automação · Soluções de Negócio
+### Bem-vindo ao meu GitHub! 👋
 
-Transformo necessidades de processos corporativos em aplicações, automações e projetos de IA com requisitos claros e documentação técnica.
+Transformo necessidades de processos corporativos em **aplicações, automações e projetos de IA**.  
+Busco oportunidades de **Analista de IA Júnior e Automação com IA**.
 
-**Foco em oportunidades de Analista de IA Júnior e Automação com IA.**
+<a href="https://github.com/matosluan93/ai-business-solutions-portfolio"><img alt="Explorar portfólio" src="https://img.shields.io/badge/PORTFÓLIO-121C30?style=for-the-badge&amp;logo=github&amp;logoColor=70E5DB" /></a>
+<a href="https://www.linkedin.com/in/luanfmatos/"><img alt="LinkedIn de Luan Felipe" src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+<a href="https://github.com/matosluan93/ai-business-solutions-portfolio/blob/main/SKILLS.md"><img alt="Competências e evidências" src="https://img.shields.io/badge/COMPETÊNCIAS-7054B3?style=for-the-badge&amp;logo=readme&amp;logoColor=white" /></a>
 
-[![Aplicações](https://img.shields.io/badge/EXPLORAR_APLICAÇÕES-0F766E?style=for-the-badge)](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications)
-[![Prompts de IA](https://img.shields.io/badge/EXPLORAR_PROMPTS-1E293B?style=for-the-badge)](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts)
+<br /><br />
 
-[Portfólio completo](https://github.com/matosluan93/ai-business-solutions-portfolio) · [Competências e evidências](https://github.com/matosluan93/ai-business-solutions-portfolio/blob/main/SKILLS.md)
+<img width="49%" src="assets/overview.svg" alt="7 repositórios públicos próprios, 6 aplicações, 6 projetos de prompts e 14 testes locais aprovados. Dados de 30/10/2026." />
+<img width="49%" src="assets/technologies.svg" alt="Tecnologias dos projetos: Python, JavaScript, TypeScript, Flask, React, Next.js, SQLite, IA e automação." />
+
+<br /><br />
+
+<img width="88%" src="assets/technology-icons.svg" alt="Python, JavaScript, TypeScript, HTML, CSS, React, Next.js, Tailwind CSS, Flask, SQLite, Git e GitHub" />
+
+<sub>Ícones: <a href="https://skillicons.dev">Skill Icons</a> · Ferramentas presentes nos projetos do portfólio</sub>
 
 </div>
 
----
+## Sobre mim
 
-## Da necessidade de negócio à solução técnica
+Minha experiência com processos corporativos orienta como construo soluções: **entender o problema, definir regras, organizar dados e documentar a entrega**. Tenho interesse em conectar contexto de negócio, IA aplicada e desenvolvimento de aplicações úteis.
 
-Minha experiência com processos corporativos orienta a forma como construo soluções: entender o problema, definir regras, organizar dados e documentar a entrega. Meu portfólio combina desenvolvimento web, automação de dados e engenharia de prompts.
+## 🚀 Projetos principais
 
-## 01 · Aplicações — projetos principais
+### 01 · Edital Profiler v3
 
-### 1. Edital Profiler v3 · Editais e organização documental
+**Editais, recuperação de contexto e organização documental.** Aplicação para estruturar perfis, pesquisar informações em PDF/Word e acompanhar profissionais e documentos por processo.
 
-Aplicação para estruturar perfis de um edital, recuperar informações de documentos e organizar o acompanhamento de profissionais e arquivos. Combina processamento de PDF/Word, busca local e geração de planilhas; as integrações corporativas têm seu estágio documentado.
+`Python` `Flask` `SQLAlchemy` `SQLite` `NumPy` `Playwright` `MSAL`
 
-**Python · Flask · SQLAlchemy · SQLite · NumPy · Playwright · Microsoft Graph**  
+**Evidência:** 3 testes locais aprovados, incluindo o fluxo com documentos de teste.  
 [Conhecer o projeto e as telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/edital-profiler) · [Código privado](https://github.com/matosluan93/edital-profiler)
 
-### 2. TalentHub v2 · Recrutamento e gestão
+### 02 · TalentHub v2
 
-Plataforma com vagas, candidatos, pipeline, três perfis de acesso e indicadores de equipe. Inclui recuperação de contexto, fontes e **11 testes automatizados aprovados** em ambiente local.
+**Recrutamento e gestão em uma plataforma web.** Vagas, candidatos, pipeline, três perfis de acesso, indicadores e recuperação de contexto com fontes.
 
-**Python · Flask · SQLAlchemy · SQLite · MSAL · NumPy**  
+`Python` `Flask` `SQLAlchemy` `SQLite` `MSAL` `NumPy`
+
+**Evidência:** 11 testes locais aprovados de autenticação, permissões e fluxos da aplicação.  
 [Conhecer o projeto e as telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/talenthub) · [Código privado](https://github.com/matosluan93/talenthub)
 
-### 3. SpeakAI · Aprendizagem de idiomas
+### 03 · SpeakAI
 
-Aplicação web de estudo em oito idiomas, com jornada geral, trilha executiva, gramática e gamificação. Usa recursos de voz do navegador e mantém o progresso local; a conversa com IA depende da configuração do servidor.
+**Aprendizagem de idiomas com uma jornada interativa.** Oito idiomas, trilha executiva, gramática, gamificação, voz no navegador e progresso salvo localmente.
 
-**JavaScript · HTML · CSS · Node.js · Web Speech API · localStorage**  
+`JavaScript` `HTML` `CSS` `Node.js` `Web Speech API` `localStorage`
+
+**Evidência:** telas da aplicação e build local verificado; conversação com IA depende da configuração do servidor.  
 [Conhecer o projeto e as telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/speakai) · [Código privado](https://github.com/matosluan93/speakai-projeto)
 
-### Outras aplicações
+> As apresentações públicas mostram escopo, telas e estágio de cada integração. O código dos três projetos principais permanece privado.
 
-| Projeto | O que demonstra | Explore |
-| :--- | :--- | :--- |
-| **BenefProcess** | Automação de bases, validação e exportação de relatórios com Python, Flask e pandas | [Estudo e telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/benefprocess) |
-| **Stefanini Shopping** | E-commerce responsivo, catálogo, variantes e internacionalização com Next.js e TypeScript | [Estudo e telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/stefanini-shopping) |
-| **NF-e — Automação** | Cadastro, persistência em SQLite e pré-visualização em um protótipo Flask | [Estudo e telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/nfe-automation) |
+## 🧩 Mais aplicações e prompts
 
-## 02 · Prompts de IA
+| Aplicação | Foco |
+| :--- | :--- |
+| [BenefProcess](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/benefprocess) | Bases de benefícios, validação e relatórios com Python, Flask e pandas |
+| [Stefanini Shopping](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/stefanini-shopping) | E-commerce, catálogo e interface responsiva com Next.js e TypeScript |
+| [NF-e — Automação](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/nfe-automation) | Protótipo local de cadastro, consulta e painel com Flask e SQLite |
 
-Projetos com instruções, regras de operação e formatos de resposta documentados. As páginas indicam o estágio e o material público disponível.
+**Prompts de IA:** [Gestor Acolhe](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/gestor-acolhe) · [Sophie Voice Comms](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/sophie-voice-comms) · [SmartComms](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/smartcomms) · [SpeakAI](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/speakai) · [LexAnalyzer](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/lexanalyzer) · [SkillMatch](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/skillmatch)
 
-| Projeto | Contexto | Competência em evidência |
-| :--- | :--- | :--- |
-| [Gestor Acolhe](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/gestor-acolhe) | Apoio à liderança | Estruturação de instruções e governança |
-| [Sophie Voice Comms](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/sophie-voice-comms) | Roteiros institucionais | Localização e controle de informações |
-| [SmartComms](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/smartcomms) | Comunicação em inglês | Adaptação por canal e validação |
-| [SpeakAI — prompt](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/speakai) | Tutoria de idiomas | Personalização e desenho de jornada |
-| [LexAnalyzer](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/lexanalyzer) | Estruturação preliminar para R&S | Regras e explicabilidade; versão pública sanitizada |
-| [SkillMatch](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/skillmatch) | Comparação assistida de currículo e vaga | Critérios e evidências |
+[Explorar aplicações](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications) · [Explorar prompts](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts)
 
-## Ferramentas, tecnologias e conhecimentos
+## 🛠️ Ferramentas, tecnologias e conhecimentos
 
-| Frente | Ferramentas e conhecimentos usados nos projetos |
+| Frente | Conhecimentos aplicados nos projetos |
 | :--- | :--- |
 | **Backend e dados** | Python · Flask · SQLAlchemy · SQLite · pandas · NumPy · APIs REST |
 | **Front-end** | HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS |
@@ -75,13 +81,13 @@ Projetos com instruções, regras de operação e formatos de resposta documenta
 | **IA e integrações** | Engenharia de prompts · Recuperação de contexto · Groq · Azure OpenAI · Anthropic · MSAL · Microsoft Graph |
 | **Qualidade e negócio** | Git · GitHub · pytest · Requisitos · Regras de negócio · Rastreabilidade · Documentação técnica |
 
-[Ver o inventário completo e as evidências por projeto](https://github.com/matosluan93/ai-business-solutions-portfolio/blob/main/SKILLS.md). Cada estudo diferencia a execução local das integrações que dependem de configuração externa.
+[Ver o inventário completo e as evidências por projeto](https://github.com/matosluan93/ai-business-solutions-portfolio/blob/main/SKILLS.md). As páginas diferenciam a execução local das integrações que dependem de configuração externa.
 
-## Oportunidades e colaboração
+## 🤝 Vamos conversar
 
-Tenho interesse em posições de **Analista de IA Júnior**, **Analista de IA Generativa**, **Analista de Automação com IA** e **AI Business Analyst**, conectando contexto de negócio, organização de processos e execução técnica.
+Tenho interesse em oportunidades de **Analista de IA Júnior**, **Analista de IA Generativa**, **Analista de Automação com IA** e **AI Business Analyst**.
 
-[Explore os projetos e suas evidências](https://github.com/matosluan93/ai-business-solutions-portfolio)
+[LinkedIn](https://www.linkedin.com/in/luanfmatos/) · [Portfólio e demonstrações](https://github.com/matosluan93/ai-business-solutions-portfolio)
 
 ---
 
