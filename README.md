@@ -21,33 +21,36 @@ Transformo necessidades de processos corporativos em aplicações, automações 
 
 Minha experiência com processos corporativos orienta a forma como construo soluções: entender o problema, definir regras, organizar dados e documentar a entrega. Meu portfólio combina desenvolvimento web, automação de dados e engenharia de prompts.
 
-## 01 · Aplicações
+## 01 · Aplicações — projetos principais
 
-### TalentHub v2 · Recrutamento e gestão
+### 1. Edital Profiler v3 · Editais e organização documental
 
-Aplicação web com vagas, candidatos, pipeline e três perfis de acesso. Inclui indicadores por equipe, recuperação de contexto e testes automatizados em ambiente local.
+Aplicação para estruturar perfis de um edital, recuperar informações de documentos e organizar o acompanhamento de profissionais e arquivos. Combina processamento de PDF/Word, busca local e geração de planilhas; as integrações corporativas têm seu estágio documentado.
 
-**Python · Flask · SQLAlchemy · SQLite · MSAL**  
-[Conhecer o projeto e a demonstração](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/talenthub)
+**Python · Flask · SQLAlchemy · SQLite · NumPy · Playwright · Microsoft Graph**  
+[Conhecer o projeto e as telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/edital-profiler) · [Código privado](https://github.com/matosluan93/edital-profiler)
 
-### BenefProcess · Automação de dados
+### 2. TalentHub v2 · Recrutamento e gestão
 
-Tratamento e validação de bases de benefícios, com deduplicação, rastreabilidade e exportação em Excel, CSV, ZIP e PowerPoint.
+Plataforma com vagas, candidatos, pipeline, três perfis de acesso e indicadores de equipe. Inclui recuperação de contexto, fontes e **11 testes automatizados aprovados** em ambiente local.
 
-**Python · Flask · pandas · openpyxl · python-pptx**  
-[Ver o estudo e as telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/benefprocess) · [Explorar código](https://github.com/matosluan93/benef-process)
+**Python · Flask · SQLAlchemy · SQLite · MSAL · NumPy**  
+[Conhecer o projeto e as telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/talenthub) · [Código privado](https://github.com/matosluan93/talenthub)
 
-### SpeakAI · Aprendizagem de idiomas
+### 3. SpeakAI · Aprendizagem de idiomas
 
-Interface de estudo em oito idiomas, com jornada geral, trilha executiva, gramática e gamificação. O build local e as telas estão documentados no projeto.
+Aplicação web de estudo em oito idiomas, com jornada geral, trilha executiva, gramática e gamificação. Usa recursos de voz do navegador e mantém o progresso local; a conversa com IA depende da configuração do servidor.
 
-**JavaScript · HTML · CSS · Node.js**  
-[Ver o estudo e as telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/speakai)
+**JavaScript · HTML · CSS · Node.js · Web Speech API · localStorage**  
+[Conhecer o projeto e as telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/speakai) · [Código privado](https://github.com/matosluan93/speakai-projeto)
 
-| Outros projetos | O que demonstram | Explore |
+### Outras aplicações
+
+| Projeto | O que demonstra | Explore |
 | :--- | :--- | :--- |
-| **Stefanini Shopping** | Front-end de e-commerce, catálogo, variantes e internacionalização com Next.js e TypeScript | [Estudo e telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/stefanini-shopping) |
-| **NF-e — Automação** | Fluxos de cadastro, persistência em SQLite e pré-visualização em um protótipo Flask | [Estudo e telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/nfe-automation) |
+| **BenefProcess** | Automação de bases, validação e exportação de relatórios com Python, Flask e pandas | [Estudo e telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/benefprocess) |
+| **Stefanini Shopping** | E-commerce responsivo, catálogo, variantes e internacionalização com Next.js e TypeScript | [Estudo e telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/stefanini-shopping) |
+| **NF-e — Automação** | Cadastro, persistência em SQLite e pré-visualização em um protótipo Flask | [Estudo e telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/nfe-automation) |
 
 ## 02 · Prompts de IA
 
@@ -62,13 +65,17 @@ Projetos com instruções, regras de operação e formatos de resposta documenta
 | [LexAnalyzer](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/lexanalyzer) | Estruturação preliminar para R&S | Regras e explicabilidade; versão pública sanitizada |
 | [SkillMatch](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/prompts/skillmatch) | Comparação assistida de currículo e vaga | Critérios e evidências |
 
-## Ferramentas e competências
+## Ferramentas, tecnologias e conhecimentos
 
-| Dados e backend | Desenvolvimento web | IA e análise |
-| :--- | :--- | :--- |
-| Python · Flask · SQLAlchemy | HTML · CSS · JavaScript | Engenharia de prompts |
-| pandas · SQLite · openpyxl | React · Next.js · TypeScript | Recuperação de contexto e fontes |
-| python-pptx · Git · GitHub | Tailwind CSS · Internacionalização | Requisitos · Documentação técnica |
+| Frente | Ferramentas e conhecimentos usados nos projetos |
+| :--- | :--- |
+| **Backend e dados** | Python · Flask · SQLAlchemy · SQLite · pandas · NumPy · APIs REST |
+| **Front-end** | HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS |
+| **Documentos e automação** | pdfplumber · pypdf · python-docx · openpyxl · xlsxwriter · python-pptx · Playwright |
+| **IA e integrações** | Engenharia de prompts · Recuperação de contexto · Groq · Azure OpenAI · Anthropic · MSAL · Microsoft Graph |
+| **Qualidade e negócio** | Git · GitHub · pytest · Requisitos · Regras de negócio · Rastreabilidade · Documentação técnica |
+
+[Ver o inventário completo e as evidências por projeto](https://github.com/matosluan93/ai-business-solutions-portfolio/blob/main/SKILLS.md). Cada estudo diferencia a execução local das integrações que dependem de configuração externa.
 
 ## Oportunidades e colaboração
 
