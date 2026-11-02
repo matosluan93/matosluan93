@@ -57,7 +57,16 @@ Minha experiência com processos corporativos orienta como construo soluções: 
 **Evidência:** telas da aplicação e build local verificado; conversação com IA depende da configuração do servidor.  
 [Conhecer o projeto e as telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/speakai) · [Código privado](https://github.com/matosluan93/speakai-projeto)
 
-> As apresentações públicas mostram escopo, telas e estágio de cada integração. O código dos três projetos principais permanece privado.
+### 04 · Atlas Naval
+
+**História naval em um globo 3D interativo.** Exploração geográfica de batalhas, 19 estudos completos, animações táticas por fases, quizzes e modo treino.
+
+`JavaScript` `HTML` `CSS` `CesiumJS` `Node.js` `Vercel`
+
+**Evidência:** código público, documentação técnica e verificações de sintaxe e estrutura dos 19 estudos.  
+[Conhecer o projeto](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/atlas-naval) · [Código público](https://github.com/matosluan93/atlas-naval) · [Abrir aplicação](https://carta-de-combate-naval.vercel.app)
+
+> As apresentações públicas mostram escopo, evidências e estágio de cada integração. O Atlas Naval tem código público; Edital Profiler, TalentHub e SpeakAI mantêm o código privado.
 
 ## 🧩 Mais aplicações e prompts
 
