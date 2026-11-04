@@ -17,12 +17,12 @@ jobs:
 
     steps:
       - name: Generate Pac-Man contribution graph
-        uses: abozanona/pacman-contribution-graph@main
+        uses: abozanona/pacman-contribution-graph@294c47eff28a41339a279107ae771b5fa020037a # main revisado
         with:
           github_user_name: ${{ github.repository_owner }}
 
       - name: Publish generated SVG files
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@c0d7ff0487ee0415efb7f32dab10ea880330b1dd # v3.1.0
         with:
           target_branch: output
           build_dir: dist
