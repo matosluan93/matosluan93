@@ -30,7 +30,7 @@ Minha experiência com processos corporativos orienta como construo soluções: 
 
 ## 🚀 Projetos principais
 
-### 01 · Edital Profiler v3
+### 01 · Edital Profiler
 
 **Editais, recuperação de contexto e organização documental.** Aplicação para estruturar perfis, pesquisar informações em PDF/Word e acompanhar profissionais e documentos por processo.
 
@@ -39,7 +39,7 @@ Minha experiência com processos corporativos orienta como construo soluções: 
 **Evidência:** 3 testes locais aprovados, incluindo o fluxo com documentos de teste.  
 [Conhecer o projeto e as telas](https://github.com/matosluan93/ai-business-solutions-portfolio/tree/main/applications/edital-profiler) · [Código privado](https://github.com/matosluan93/edital-profiler)
 
-### 02 · TalentHub v2
+### 02 · TalentHub
 
 **Recrutamento e gestão em uma plataforma web.** Vagas, candidatos, pipeline, três perfis de acesso, indicadores e recuperação de contexto com fontes.
 
