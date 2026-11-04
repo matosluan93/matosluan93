@@ -1,6 +1,6 @@
 <div align="center">
 
-![Olá, eu sou Luan Felipe. Inteligência Artificial, Automação e Soluções de Negócio.](assets/header.svg)
+![Olá, eu sou Luan Matos. Inteligência Artificial, Automação e Soluções de Negócio.](assets/header.svg)
 
 ### Bem-vindo ao meu GitHub! 👋
 
